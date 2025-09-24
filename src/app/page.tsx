@@ -42,12 +42,12 @@ export default function Index() {
           <div className="absolute inset-0 bg-primary/70"></div>
         </div>
 
-        <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
-          <h1 className="font-heading text-5xl md:text-7xl font-bold mb-6">
+        <div className="relative z-10 text-center text-primary max-w-4xl mx-auto px-4">
+          <h1 className="font-heading text-5xl md:text-7xl font-bold mb-6 text-primary">
             BUILDING<br />
             <span className="text-accent">TOMORROW, TODAY</span>
           </h1>
-          <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto font-light">
+          <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto font-light text-primary">
             NYC's premier renovation contractor with 15+ years of experience transforming spaces
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
